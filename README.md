@@ -10,7 +10,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
-- [Coding](#coding)
+GauGAN2- [Coding](#coding)
 - [Agents](#agents)
 - [Image](#image)
 - [Video](#video)
